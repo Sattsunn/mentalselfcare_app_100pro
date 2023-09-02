@@ -74,7 +74,7 @@ class _LogPageState extends State<LogPage> {
                 controller: _titleController,
                 decoration: InputDecoration(
                   border: OutlineInputBorder(),
-                  hintText: "Title",
+                  hintText: "今日はどうだった？",
                 ),
               ),
               SizedBox(height: 10),
